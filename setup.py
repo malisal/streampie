@@ -5,7 +5,7 @@ with open("requirements.txt") as f:
 
 setup(
    name = "streampie",
-   version = "0.2.3",
+   version = "0.2.4",
    description = "A simple, parallel stream processing library",
    author = "Luka Malisa",
    author_email = "luka.malisha@gmail.com",
