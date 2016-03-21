@@ -4,7 +4,7 @@
 [![PyPI](https://img.shields.io/pypi/v/streampie.svg?style=flat)](https://pypi.python.org/pypi/streampie/)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/)
 
-Streampie is a tiny library for simple and parallel execution of job processing tasks. The project heavily draws both concepts and code from the awesome [stream.py](www.trinhhaianh.com/stream.py/) project by Anh Hai Trinh. However, it is a leaner, cleaner re-implementation with the addition of simple distributed computation.
+Streampie is a tiny library for simple and parallel execution of job processing tasks. The project heavily draws both concepts and code from the awesome [stream.py](http://www.trinhhaianh.com/stream.py/) project by Anh Hai Trinh. However, it is a leaner, cleaner re-implementation with the addition of simple distributed computation.
 
 Here is an example where streampie becomes useful. For more information, visit our [docs](https://streampie.readthedocs.org/en/latest)
 

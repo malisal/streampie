@@ -3,4 +3,5 @@
 *.swo
 build/
 dist/
+streampie.egg-info/
 MANIFEST

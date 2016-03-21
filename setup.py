@@ -30,6 +30,7 @@ setup(
       "sphinx>=1.3.6",
       "ipython>=4.1.2",
       "matplotlib>=1.5.1",
+      "wheel>=0.29.0",
    ],
 
    py_modules = ["streampie"],
