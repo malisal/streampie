@@ -6,6 +6,16 @@
 
 Streampie is a tiny library for simple and parallel execution of job processing tasks. The project heavily draws both concepts and code from the awesome [stream.py](http://www.trinhhaianh.com/stream.py/) project by Anh Hai Trinh. However, it is a leaner, cleaner re-implementation with the addition of simple distributed computation.
 
+### Installation
+
+You can streampie with:
+
+```bash
+pip install streampie
+```
+
+### Example
+
 Here is an example where streampie becomes useful. For more information, visit our [docs](https://streampie.readthedocs.org/en/latest)
 
 ```python
